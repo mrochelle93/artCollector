@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../../Desktop/Art Collector Project"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "UNIV_Art_Collector_React_Starter-master"
+  }
+}
